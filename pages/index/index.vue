@@ -5,7 +5,7 @@
 		/>
 	</page-meta>
 	<view class="content">
-		这是页面内容部分
+		崔雨荷内容
 	</view>
 </template>
 
